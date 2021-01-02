@@ -1,7 +1,6 @@
-<img src="banner.png" width="100%">
-# ReVoice (AI-enabled Smart Reviewer System)
+<img src="banner.png" width="100%">  
 
-The source code for [Revoice](https://revoice.tech), a working protoype for the idea.
+# ReVoice (NLP Model)
 
 ## The Idea
 
